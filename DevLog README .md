@@ -2,6 +2,8 @@
 
 Developed with Unreal Engine 5
 
+Use W,A,S,D to move. Use SPACE to jump. Use F to lach onto swinging graple points.
+
 This is my Project 2: DevLog.
     For this part off my project I was still working on the SpiderMan grapple mechanic. Some of the things that I said in my Postmortem that I wanted to add were a release mechanic with a character is launched forward and a fix to one of my previous bugs where the cycle starts over instead of going back and forth naturally like someone swinging. 
     I was able to complete both of my Must-Have goals from my postmortem. Unfortunately I couldn't figure out my stretch goal of making a string attached to the player and the grapple point but that doesn't mean I didn't do anything else for the project to make it better. Originally the level was a top down which I figured wasn't a great way to showcase the mechanic. So instead I made the level into a third world view of the character. Now the character was being tracked by a camera as it moved and the camera could be moved along the grapple poins as the character swung around.
