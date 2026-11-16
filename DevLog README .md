@@ -14,4 +14,5 @@ This is my Project 2: DevLog.
 Sprint 2
 Use SPACE to jump, and Press C to climb on walls
     I did not do as well as I wanted here. For this part off my project I set out to make my character crawl on a wall like in the spiderman games. But the carticter can relese from the wall but it dosn't jump off makeing it easier to swing. 
-    While the character can climb the wall it floats past the edge instead of falling off and you cant climb up or down. 
+    While the character can climb the wall it floats past the edge instead of falling off and you cant climb up or down. The movement while climbing is still similar to its walking. Other thins that were added are thing like animations for the climbing. this wet over much better than the other parts. 
+    There were no bugs from last project but with this new one, a lot more have come in it's place. 1, The character cant move up and down. 2 The character It not attached to the wall and its movement is the same as on the ground. 3 It cannot start from the ground must be in the air, with precise timing. 
